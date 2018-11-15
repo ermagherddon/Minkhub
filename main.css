@@ -1,0 +1,94 @@
+h1 {
+	color: white;
+	font-family: helvetica;
+	font-weight: bold;	
+	text-align: center;
+}	
+body {
+	background-color: black;
+}
+div {
+	/*border: 2px solid orange;*/
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 6px;
+	margin-bottom: 60px;
+}
+.banner {
+	padding: 6px;
+	width: 1200px;
+}
+p {
+	color: white;
+	font-family: helvetica;
+	font-weight: bold;		
+}
+.title {
+	margin-left: auto;
+	margin-right: auto;
+}
+span {
+	width: 30px;
+	background-color:orange; 
+	color: black;
+}
+h3 {
+	color: white;
+	font-family: helvetica;
+	font-weight: bold;	
+	text-align: center;
+}	
+th {
+	border: 1px solid gray;
+}
+img {
+	width: 235px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+.VideoTitle {
+	text-align: center;
+	color: white;
+	font-family: helvetica;
+	font-weight: bold;
+}
+td {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+tr {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+iframe {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.minkvids {
+	width: 561px;
+}
+.webpagetitle {
+	color: white;
+}
+.smallvideos {
+	width: 235px;
+	height: 155px;
+}
+h2 {
+	text-align: left;
+	color: orange;
+	font-family: helvetica;
+}
+a {
+	text-decoration: none;
+}
+label {
+	color: orange;
+	font-family: helvetica;
+}
